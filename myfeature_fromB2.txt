@@ -1,0 +1,7 @@
+hello
+
+creating branch againest exting branch
+
+git checkout - myfeature dev
+
+git checkout -b myfeature branch2
